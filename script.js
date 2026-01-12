@@ -183,6 +183,17 @@ function setVideo(index, autoplay) {
   const poster = video.poster ?? "";
   const type = video.type ?? inferMime(video.src);
 
+  const tracks = [];
+  if (video.subtitles) {
+    tracks.push({
+      kind: "captions",
+      label: "Polski",
+      srclang: "pl",
+      src: video.subtitles,
+      default: true
+    });
+  }
+
   plyr.source = {
     type: "video",
     title: video.title,
@@ -192,7 +203,8 @@ function setVideo(index, autoplay) {
         type
       }
     ],
-    poster
+    poster,
+    tracks
   };
 
   if (autoplay) {

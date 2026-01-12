@@ -7,7 +7,8 @@
         "description": "Joel Fleischman trafia do Cicely na Alasce, gdzie poznaje ekscentrycznych mieszkańców miasteczka.",
         "duration": "47:54",
         "src": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E01.mp4",
-        "poster": "images/poster_s01e01.jpg"
+        "poster": "images/poster_s01e01.jpg",
+        "subtitles": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E01.srt"
     },
     {
         "season": 1,
@@ -17,7 +18,8 @@
         "description": "Joel próbuje odnaleźć się w realiach Alaski, a Ed szuka swojej filmowej drogi.",
         "duration": "47:51",
         "src": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E02.mp4",
-        "poster": "images/poster_s01e02.jpg"
+        "poster": "images/poster_s01e02.jpg",
+        "subtitles": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E02.srt"
     },
     {
         "season": 1,
@@ -27,7 +29,8 @@
         "description": "Cicely dzieli spadek po kapryśnym pustelniku, co wywołuje małą rewolucję.",
         "duration": "47:47",
         "src": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E03.mp4",
-        "poster": "images/poster_s01e03.jpg"
+        "poster": "images/poster_s01e03.jpg",
+        "subtitles": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E03.srt"
     },
     {
         "season": 1,
@@ -37,7 +40,8 @@
         "description": "Maurice buduje pole golfowe, a Maggie musi zmierzyć się z kolejną serią dziwnych snów.",
         "duration": "47:49",
         "src": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E04.mp4",
-        "poster": "images/poster_s01e04.jpg"
+        "poster": "images/poster_s01e04.jpg",
+        "subtitles": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E04.srt"
     },
     {
         "season": 1,
@@ -47,7 +51,8 @@
         "description": "Gdy w Cicely wybucha epidemia rosyjskiej grypy, mieszkańcy szukają alternatywnych metod leczenia.",
         "duration": "47:36",
         "src": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E05.mp4",
-        "poster": "images/poster_s01e05.jpg"
+        "poster": "images/poster_s01e05.jpg",
+        "subtitles": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E05.srt"
     },
     {
         "season": 1,
@@ -57,7 +62,8 @@
         "description": "Ed nagrywa dokument o miłości w Cicely, wyciągając na światło dzienne sekrety swoich sąsiadów.",
         "duration": "47:46",
         "src": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E06.mp4",
-        "poster": "images/poster_s01e06.jpg"
+        "poster": "images/poster_s01e06.jpg",
+        "subtitles": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E06.srt"
     },
     {
         "season": 1,
@@ -67,7 +73,8 @@
         "description": "Chris zmaga się z niespodziewaną sławą, a Joel uczy się lokalnych rytuałów.",
         "duration": "47:43",
         "src": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E07.mp4",
-        "poster": "images/poster_s01e07.jpg"
+        "poster": "images/poster_s01e07.jpg",
+        "subtitles": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E07.srt"
     },
     {
         "season": 1,
@@ -77,6 +84,7 @@
         "description": "Zorza polarna wywołuje zbiorową halucynację, a Alaskanie odkrywają swoje alter ego.",
         "duration": "47:57",
         "src": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E08.mp4",
-        "poster": "images/poster_s01e08.jpg"
+        "poster": "images/poster_s01e08.jpg",
+        "subtitles": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E08.srt"
     }
 ]
