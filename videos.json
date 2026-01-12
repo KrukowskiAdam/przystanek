@@ -8,7 +8,7 @@
         "duration": "47:54",
         "src": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E01.mp4",
         "poster": "images/poster_s01e01.jpg",
-        "subtitles": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E01.srt"
+        "subtitles": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E01.vtt"
     },
     {
         "season": 1,
@@ -19,7 +19,7 @@
         "duration": "47:51",
         "src": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E02.mp4",
         "poster": "images/poster_s01e02.jpg",
-        "subtitles": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E02.srt"
+        "subtitles": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E02.vtt"
     },
     {
         "season": 1,
@@ -30,7 +30,7 @@
         "duration": "47:47",
         "src": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E03.mp4",
         "poster": "images/poster_s01e03.jpg",
-        "subtitles": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E03.srt"
+        "subtitles": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E03.vtt"
     },
     {
         "season": 1,
@@ -41,7 +41,7 @@
         "duration": "47:49",
         "src": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E04.mp4",
         "poster": "images/poster_s01e04.jpg",
-        "subtitles": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E04.srt"
+        "subtitles": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E04.vtt"
     },
     {
         "season": 1,
@@ -52,7 +52,7 @@
         "duration": "47:36",
         "src": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E05.mp4",
         "poster": "images/poster_s01e05.jpg",
-        "subtitles": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E05.srt"
+        "subtitles": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E05.vtt"
     },
     {
         "season": 1,
@@ -63,7 +63,7 @@
         "duration": "47:46",
         "src": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E06.mp4",
         "poster": "images/poster_s01e06.jpg",
-        "subtitles": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E06.srt"
+        "subtitles": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E06.vtt"
     },
     {
         "season": 1,
@@ -74,7 +74,7 @@
         "duration": "47:43",
         "src": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E07.mp4",
         "poster": "images/poster_s01e07.jpg",
-        "subtitles": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E07.srt"
+        "subtitles": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E07.vtt"
     },
     {
         "season": 1,
@@ -85,6 +85,6 @@
         "duration": "47:57",
         "src": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E08.mp4",
         "poster": "images/poster_s01e08.jpg",
-        "subtitles": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E08.srt"
+        "subtitles": "https://autumn-truth-2f46.krukowski-adam.workers.dev/Northern_Exposure_S01E08.vtt"
     }
 ]
