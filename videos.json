@@ -1,0 +1,82 @@
+[
+    {
+        "season": 1,
+        "episode": 1,
+        "title": "Pilot",
+        "air_date": "1990-07-12",
+        "description": "Joel Fleischman trafia do Cicely na Alasce, gdzie poznaje ekscentrycznych mieszkańców miasteczka.",
+        "duration": "47:54",
+        "src": "https://pub-a49d20b6f6c54a6296371a4d1c0a0483.r2.dev/Northern_Exposure_S01E01.mp4",
+        "poster": "images/poster_s01e01.jpg"
+    },
+    {
+        "season": 1,
+        "episode": 2,
+        "title": "Brains, Know-How and Native Intelligence",
+        "air_date": "1990-07-19",
+        "description": "Joel próbuje odnaleźć się w realiach Alaski, a Ed szuka swojej filmowej drogi.",
+        "duration": "47:51",
+        "src": "https://pub-a49d20b6f6c54a6296371a4d1c0a0483.r2.dev/Northern_Exposure_S01E02.mp4",
+        "poster": "images/poster_s01e02.jpg"
+    },
+    {
+        "season": 1,
+        "episode": 3,
+        "title": "Soapy Sanderson",
+        "air_date": "1990-07-26",
+        "description": "Cicely dzieli spadek po kapryśnym pustelniku, co wywołuje małą rewolucję.",
+        "duration": "47:47",
+        "src": "https://pub-a49d20b6f6c54a6296371a4d1c0a0483.r2.dev/Northern_Exposure_S01E03.mp4",
+        "poster": "images/poster_s01e03.jpg"
+    },
+    {
+        "season": 1,
+        "episode": 4,
+        "title": "Dreams, Schemes and Putting Greens",
+        "air_date": "1990-08-02",
+        "description": "Maurice buduje pole golfowe, a Maggie musi zmierzyć się z kolejną serią dziwnych snów.",
+        "duration": "47:49",
+        "src": "https://pub-a49d20b6f6c54a6296371a4d1c0a0483.r2.dev/Northern_Exposure_S01E04.mp4",
+        "poster": "images/poster_s01e04.jpg"
+    },
+    {
+        "season": 1,
+        "episode": 5,
+        "title": "Russian Flu",
+        "air_date": "1990-08-09",
+        "description": "Gdy w Cicely wybucha epidemia rosyjskiej grypy, mieszkańcy szukają alternatywnych metod leczenia.",
+        "duration": "47:36",
+        "src": "https://pub-a49d20b6f6c54a6296371a4d1c0a0483.r2.dev/Northern_Exposure_S01E05.mp4",
+        "poster": "images/poster_s01e05.jpg"
+    },
+    {
+        "season": 1,
+        "episode": 6,
+        "title": "Sex, Lies and Ed's Tapes",
+        "air_date": "1990-08-16",
+        "description": "Ed nagrywa dokument o miłości w Cicely, wyciągając na światło dzienne sekrety swoich sąsiadów.",
+        "duration": "47:46",
+        "src": "https://pub-a49d20b6f6c54a6296371a4d1c0a0483.r2.dev/Northern_Exposure_S01E06.mp4",
+        "poster": "images/poster_s01e06.jpg"
+    },
+    {
+        "season": 1,
+        "episode": 7,
+        "title": "A Kodiak Moment",
+        "air_date": "1990-08-23",
+        "description": "Chris zmaga się z niespodziewaną sławą, a Joel uczy się lokalnych rytuałów.",
+        "duration": "47:43",
+        "src": "https://pub-a49d20b6f6c54a6296371a4d1c0a0483.r2.dev/Northern_Exposure_S01E07.mp4",
+        "poster": "images/poster_s01e07.jpg"
+    },
+    {
+        "season": 1,
+        "episode": 8,
+        "title": "Aurora Borealis",
+        "air_date": "1990-08-30",
+        "description": "Zorza polarna wywołuje zbiorową halucynację, a Alaskanie odkrywają swoje alter ego.",
+        "duration": "47:57",
+        "src": "https://pub-a49d20b6f6c54a6296371a4d1c0a0483.r2.dev/Northern_Exposure_S01E08.mp4",
+        "poster": "images/poster_s01e08.jpg"
+    }
+]
