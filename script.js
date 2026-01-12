@@ -187,8 +187,8 @@ function setVideo(index, autoplay) {
   if (video.subtitles) {
     tracks.push({
       kind: "captions",
-      label: "Polski",
-      srclang: "pl",
+      label: "English",
+      srclang: "en",
       src: video.subtitles,
       default: true
     });
