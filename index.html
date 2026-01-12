@@ -11,7 +11,8 @@
 
 <body>
     <header class="top-bar">
-        <h1>Przystanek Alaska</h1>
+        <img src="images/ogo.webp" alt="Przystanek Alaska" class="site-logo" />
+        <h1 class="sr-only">Przystanek Alaska</h1>
     </header>
 
     <main class="layout">
@@ -56,10 +57,24 @@
                 Sezon 8
             </button>
         </nav>
+        <section class="library">
+            <ul id="video-list" class="shelf" role="list"></ul>
+            <template id="video-item-template">
+                <li class="card" role="listitem">
+                    <button type="button" class="card-button">
+                        <span class="card-thumb"></span>
+                        <span class="card-overlay">
+                            <strong class="card-title"></strong>
+                            <span class="card-meta"></span>
+                        </span>
+                    </button>
+                </li>
+            </template>
+        </section>
     </main>
 
     <footer class="footer">
-        <small>© <span id="year"></span> Przystanek Alaska</small>
+        <p>Przystanek Alaska. Wszelkie prawa dozwolone</p>
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/plyr@3.7.8/dist/plyr.polyfilled.js"></script>

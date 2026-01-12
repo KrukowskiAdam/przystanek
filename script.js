@@ -1,5 +1,4 @@
 let listElement;
-let searchInput;
 let seasonTabs = [];
 let template;
 let playerElement;
@@ -22,7 +21,6 @@ if (document.readyState === "loading") {
 
 function init() {
   listElement = document.querySelector("#video-list");
-  searchInput = document.querySelector("#search");
   seasonTabs = [...document.querySelectorAll(".season-tab")];
   template = document.querySelector("#video-item-template");
   playerElement = document.querySelector("#video-player");
@@ -111,11 +109,6 @@ function init() {
     });
   }
 
-  if (searchInput) {
-    searchInput.addEventListener("input", () => {
-      updateLibrary();
-    });
-  }
 
   if (yearEl) {
     yearEl.textContent = String(new Date().getFullYear());
@@ -291,14 +284,9 @@ function updateLibrary({ resetCurrent = false, autoplay = false } = {}) {
     .map((video, index) => ({ video, index }))
     .filter(({ video }) => (video.season ?? 1) === currentSeason);
 
-  const query = searchInput?.value.trim().toLowerCase() ?? "";
-  const filtered = query
-    ? seasonEpisodes.filter(({ video }) => video.title.toLowerCase().includes(query))
-    : seasonEpisodes;
+  renderList(seasonEpisodes);
 
-  renderList(filtered);
-
-  if (!filtered.length) {
+  if (!seasonEpisodes.length) {
     if (!seasonEpisodes.length) {
       currentIndex = -1;
       titleEl.textContent = `Sezon ${currentSeason} w przygotowaniu`;
@@ -308,9 +296,9 @@ function updateLibrary({ resetCurrent = false, autoplay = false } = {}) {
     return;
   }
 
-  const currentInFiltered = filtered.some(({ index }) => index === currentIndex);
+  const currentInFiltered = seasonEpisodes.some(({ index }) => index === currentIndex);
   if (resetCurrent || !currentInFiltered) {
-    setVideo(filtered[0].index, autoplay);
+    setVideo(seasonEpisodes[0].index, autoplay);
   } else {
     highlightCurrent();
   }
